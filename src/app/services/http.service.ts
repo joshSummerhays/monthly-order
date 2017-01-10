@@ -8,7 +8,7 @@ import 'rxjs/add/operator/catch';
 
 @Injectable()
 export class HttpService {
-    productURL= '/api/products.json';
+    productURL= 'assets/api/products.json';
     products = new BehaviorSubject<IProduct[]>([]);
     productsAnnounced$ = this.products.asObservable();
 
