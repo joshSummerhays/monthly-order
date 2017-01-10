@@ -1,0 +1,172 @@
+[
+    {
+        "productName": "Optimals - Vitamins",
+        "productID": 1,
+        "productPrice": 44.50
+    },
+    {
+        "productName": "Optimals - Minerals",
+        "productID": 2,
+        "productPrice": 37.95
+    },
+    {
+        "productName": "Optimals",
+        "productID": 3,
+        "productPrice": 77.50
+    },
+    {
+        "productName": "Vinali",
+        "productID": 4,
+        "productPrice": 37.95
+    },
+    {
+        "productName": "Rejuveniix",
+        "productID": 5,
+        "productPrice": 54.49
+    },
+    {
+        "productName": "Omega-Q",
+        "productID": 6,
+        "productPrice": 45.95
+    },
+    {
+        "productName": "BioproQ",
+        "productID": 7,
+        "productPrice": 50.95
+    },
+    {
+        "productName": "Restoriix",
+        "productID": 8,
+        "productPrice": 76.95
+    },
+    {
+        "productName": "Magnical-D",
+        "productID": 9,
+        "productPrice": 35.95
+    },
+    {
+        "productName": "MOA",
+        "productID": 10,
+        "productPrice": 37.95
+    },
+    {
+        "productName": "MOA 2 Pack",
+        "productID": 11,
+        "productPrice": 65.75
+    },
+    {
+        "productName": "MOA Shot Glass",
+        "productID": 12,
+        "productPrice": 5.95
+    },
+    {
+        "productName": "Slenderiix & Xceler8",
+        "productID": 13,
+        "productPrice": 112.95
+    },
+    {
+        "productName": "PureNourish Natural",
+        "productID": 14,
+        "productPrice": 59.95
+    },
+    {
+        "productName": "PureNourish Beauty Boost Orange",
+        "productID": 15,
+        "productPrice": 19.95
+    },
+    {
+        "productName": "PureNourish Power Boost Cocoa",
+        "productID": 16,
+        "productPrice": 19.95
+    },
+    {
+        "productName": "Blender Bottle",
+        "productID": 17,
+        "productPrice": 11.25
+    },
+    {
+        "productName": "Puritii Water Filter",
+        "productID": 18,
+        "productPrice": 55.95
+    },
+    {
+        "productName": "Puritii Plastic Water Bottle",
+        "productID": 19,
+        "productPrice": 20.95
+    },
+    {
+        "productName": "Puritii Stainless Steel Water Bottle",
+        "productID": 20,
+        "productPrice": 31.95
+    },
+    {
+        "productName": "Reviive Shampoo",
+        "productID": 21,
+        "productPrice": 23.95
+    },
+    {
+        "productName": "Reviive Conditioner",
+        "productID": 22,
+        "productPrice": 23.95
+    },
+    {
+        "productName": "Reviive Body Wash",
+        "productID": 23,
+        "productPrice": 20.49
+    },
+    {
+        "productName": "Reviive Toothpaste",
+        "productID": 24,
+        "productPrice": 10.25
+    },
+    {
+        "productName": "Jouvé Instant Tightening and Restoring Serum",
+        "productID": 25,
+        "productPrice": 59.88
+    },
+    {
+        "productName": "Jouvé Dark Spot Corrector and Brightening Cream",
+        "productID": 26,
+        "productPrice": 84.88
+    },
+    {
+        "productName": "Jouvé Skin System (Tightening/Restory Serum x 1, Brightening Cream x 1)",
+        "productID": 27,
+        "productPrice": 139.88
+    },
+    {
+        "productName": "Priime Calm",
+        "productID": 28,
+        "productPrice": 43.95
+    },
+    {
+        "productName": "Priime Ice",
+        "productID": 29,
+        "productPrice": 43.95
+    },
+    {
+        "productName": "Priime Escape",
+        "productID": 30,
+        "productPrice": 28.95
+    },
+    {
+        "productName": "Priime Sentry",
+        "productID": 31,
+        "productPrice": 44.95
+    },
+    {
+        "productName": "Priime Coconut Oil",
+        "productID": 32,
+        "productPrice": 20.49
+    },
+    {
+        "productName": "Priime Pack (Calm, Ice, Escape, Sentry)",
+        "productID": 33,
+        "productPrice": 147.95
+    },
+    {
+        "productName": "Priime Pack with Coconut Oil (Calm, Ice, Escape, Sentry, and coconut oil)",
+        "productID": 34,
+        "productPrice": 164.95
+    }
+]
