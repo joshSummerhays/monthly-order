@@ -1,0 +1,53 @@
+<h1>
+    Place your orders!!!
+</h1>
+<form>
+    <div class="name-form">
+        <label>
+            Your Name:
+        </label>
+        <input [(ngModel)]="name" name="name" id="name">
+    </div>
+    <div class="products">
+        <div *ngFor="let product of products">
+            <div class="input-wrapper">
+                <div class="label">
+                    <p>
+                        {{product.productName}}:
+                    </p>
+                </div>
+                <input type="number" [(ngModel)]="product.quantity" name="product.id" id="product.id" (change)="onChange()">
+            </div>
+            <p>
+                {{product.description}}
+            </p>
+        </div>
+    </div>
+</form>
+
+<div class="cart-wrapper">
+    <div class="cart" [ngClass]="{over: checkTotal()}">
+        <p class="error">
+            Your total has exceeded the limit of $200!
+        </p>
+        <p class="restrictions" *ngIf="restrictions.length">
+            {{restrictions}}
+        </p>
+        <p>
+            TOTAL: {{totalProducts()}}
+        </p>
+        <div class="cart-list">
+            <p *ngIf="cart.length">
+                CART:
+            </p>
+            <ul>
+                <li *ngFor="let product of cart">{{product.quantity}} of {{product.productName}}</li>
+            </ul>
+        </div>
+        <div class="btn-wrapper">
+            <a class="btn" href="{{emailToSend()}}">
+                Generate Email
+            </a>
+        </div>
+    </div>
+</div>
